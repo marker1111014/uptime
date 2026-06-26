@@ -9,6 +9,8 @@ sites:
     url: http://158.101.137.221:2053
   - name: gemini
     url: http://140.245.85.164
+  - name: gemini2api
+    url: https://gemini-web2api.marker1111014.workers.dev
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
