@@ -10,7 +10,9 @@ sites:
   - name: gemini
     url: http://140.245.85.164
   - name: gemini2api
-    url: https://gemini-web2api.marker1111014.workers.dev
+    url: https://broken-bonus-d6b4.marker014.workers.dev
+  - name: cloudflare cfnew
+    url: https://edge-98b3ad66.pages.dev
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
