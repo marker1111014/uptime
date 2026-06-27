@@ -1,7 +1,7 @@
 url: http://140.245.85.164
-status: up
-code: 200
-responseTime: 1120
-lastUpdated: 2026-06-27T00:06:11.417Z
+status: down
+code: 429
+responseTime: 832
+lastUpdated: 2026-06-27T10:30:34.887Z
 startTime: 2026-06-25T00:13:28.040Z
 generator: Upptime <https://github.com/upptime/upptime>
