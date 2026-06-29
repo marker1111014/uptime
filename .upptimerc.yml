@@ -7,10 +7,8 @@ sites:
     url: https://markfile.dpdns.org
   - name: vpn
     url: http://158.101.137.221:2053
-  - name: gemini
-    url: http://140.245.85.164
-  - name: gemini2api
-    url: https://broken-bonus-d6b4.marker014.workers.dev
+  - name: civitai
+    url: https://civitai.red
   - name: cloudflare cfnew
     url: https://edge-98b3ad66.pages.dev
   - name: Test Broken Site
